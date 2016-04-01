@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+  <fontFamily name="NewFontFamily">
+    <normal>fonts/NewFontFamily/times.ttf</normal>
+    <bold>fonts/NewFontFamily/timesbd.ttf</bold>
+    <italic>fonts/NewFontFamily/timesi.ttf</italic>
+    <boldItalic>fonts/NewFontFamily/timesbi.ttf</boldItalic>
+    <pdfEncoding>Identity-H</pdfEncoding>
+    <pdfEmbedded>true</pdfEmbedded>
+    <exportFonts>
+    </exportFonts>
+  </fontFamily>
+
+</fontFamilies>
